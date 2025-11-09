@@ -1,7 +1,10 @@
 
-Master branchindde yapılan işlem
+Master branchindde yapılan burada conflict olacak
 
 
 
 
 Ceren branchinde yapılan işlem 
+
+
+son eklenen değişiklik
